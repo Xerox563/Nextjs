@@ -9,6 +9,13 @@
 - For example, index.js inside pages will be the homepage (/), and about.js would be accessible at /about.
 - index.js is the entrypoint of your app (the Homepage)
 
+#### /pages/api
+
+- The pages/api folder in a Next.js project is where you define API routes. These are server-side functions that handle HTTP requests, allowing you to build backend logic directly within your Next.js application.
+- These API routes act as endpoints that can handle data fetching, user authentication, data processing, or any other server-side logic you need for your app.
+- Any JavaScript file you create inside the pages/api folder becomes an API endpoint.
+- For example, pages/api/hello.js creates an API route at http://localhost:3000/api/hello.
+
 ### /public
 
 - Contains static essets such as images,fonts and other files that are publicy accessible.
