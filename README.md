@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌐 Next.js Project Starter
+
+Welcome to my **Next.js** project! 🚀 This is a fast and scalable web application built with **Next.js 12**, featuring **server-side rendering** and **API routes** for dynamic, high-performance web apps.
+
+## 📂 Project Structure
+
+- **`pages/`** 🗂️: Contains route pages and API endpoints.
+  - **`index.js`** 🏠: Homepage.
+  - **`api/`** 🔌: Folder for serverless API routes.
+- **`public/`** 🌆: Static files accessible from the root.
+- **`styles/`** 🎨: CSS files for global and modular styling.
 
 ## Getting Started
 
